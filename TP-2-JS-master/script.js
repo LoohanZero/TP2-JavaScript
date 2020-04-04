@@ -15,7 +15,7 @@ const precioMaquina = (componentes, precios) => {
     
 }
 
-// console.log(precioMaquina(["Monitor GPRS 4000"], local.precios))
+// console.log(precioMaquina(["Monitor GPRS 3000"], local.precios))
 
 // antidadVentasComponente(componente, ventas): dado un componente y una lista de ventas, devuelve la cantidad de veces que fue vendido, o sea que formó parte de una máquina que se vendió.
 
